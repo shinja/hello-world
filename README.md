@@ -1,2 +1,2 @@
-# hello-world
-my first repository
+Hi there,
+I don't like beef!
